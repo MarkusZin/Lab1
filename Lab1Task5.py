@@ -9,4 +9,4 @@ while word != '.':
         line += ', '
     else:
         line = line[:len(line)-3] + word
-print (line)
+print(line)
